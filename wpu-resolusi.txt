@@ -1,3 +1,4 @@
 WPU Resolusi
 - Bisa membuat website sederhana dengan html,css dan javascript.
 - Konsisten dalam belajar koding
+- Serius dalam belajar
